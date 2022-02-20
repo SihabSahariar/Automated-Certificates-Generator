@@ -6,3 +6,9 @@ A python script to generate certificates from excel sheet.
 pip install pandas
 pip install Pillow
 ```
+
+# Run Code
+
+```
+python script.py
+```
